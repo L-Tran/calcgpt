@@ -1,10 +1,15 @@
 CALCGPT is a custom firmware project that brings ChatGPT and Telegram messaging to a TI-84 Plus Silver Edition calculator. A Seeed Studio XIAO ESP32C3 is soldered directly inside the calculator, connecting to the link port and using the calculator's own batteries for power. The chip handles WiFi connectivity and API calls, acting as a bridge between the calculator and the internet. Features
 
-ChatGPT — ask questions and get AI responses directly on your calculator screen
+ChatGPT - ask questions and get AI responses directly on your calculator screen
+
 Conversation history — Can reply to previous chats
+
 Paged responses — long answers are split into pages you can navigate
+
 Telegram — send and receive Telegram messages from the calculator
+
 Browser setup — connect to the CALCGPT WiFi hotspot and enter your credentials at 192.168.4.1, no reflashing required
+
 Auto launcher — the chip pushes the TI-BASIC program directly to the calculator on first boot
 
 Hardware
